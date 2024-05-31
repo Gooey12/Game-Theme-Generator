@@ -1,0 +1,11 @@
+* {
+    user-select: none;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -ms-touch-select: none;
+    -webkit-user-select: none;
+}
+
+body {
+    overflow: hidden;
+}
