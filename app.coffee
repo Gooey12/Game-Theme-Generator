@@ -19,7 +19,16 @@ themes = ["Duck", "Dark", "Bulb", "Alone", "Signal", "Light", "Darkness",
  "80's", "Birthday", "No Contact", "Duolingo", "Pizza", "Balls", "Unusual Magic",
  "Chemicals", "Alchemy", "Laboratory", "50%", "Stay Quiet", "Country",
  "Insanity", "Hospital", "Raid", "Treasure", "Cheap Copy", "Tax", "Endless",
- "Lost Control", "Life", "Quote", "Radio", "Dice", "Experiment", "Wrong Way"]
+ "Lost Control", "Life", "Quote", "Radio", "Dice", "Experiment", "Wrong Way",
+ "Heal", "First", "Random", "Shoot To Move", "Limited Controls", "Button",
+ "Lines", "Honey", "Solo", "Internet", "Aliens", "Developer", "Bell",
+ "USA", "Germany", "Oils", "Air", "Sort", "Exchange", "Chase", "Bullet",
+ "Die", "Roles Reversed", "Cloud", "Drive", "Cook", "Fire", "Camp", "Tower",
+ "Prototype", "Hunt", "Drink", "Jump", "Close", "Files", "Operation", "Train",
+ "With A Twist", "Dodge", "Inside", "Find", "Ocean", "Garbage", "Extension",
+ "Shortcut", "Mouse", "Question", "Knock", "Stranded", "Survival", "Ground",
+ "Sleep", "Flag", "Fork", "Share", "Over", "Stop", "Cursor", "Message",
+ "Edit", "Warning", "Upgrade", "Transform", "Time Machine", "Save", "Star"]
 
 randomSelect = () -> themes[Math.floor(Math.random() * themes.length)]
 
