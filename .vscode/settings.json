@@ -1,0 +1,8 @@
+{
+	"coffeescript.compile": {
+		"bare": false,
+		"sourceMap": true,
+		"header": true,
+		"inlineHeader": false
+	}
+}
